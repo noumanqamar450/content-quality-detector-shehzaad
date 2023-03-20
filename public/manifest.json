@@ -1,6 +1,6 @@
 {
-  "short_name": "Content Quality Detector",
-  "name": "Create React App Sample",
+  "short_name": "AI Content Detector",
+  "name": "AI generated text can be used unethically in many ways. Want to check if a piece of content was written by AI or human? Here is a tool for you. Visit now!",
   "icons": [
     {
       "src": "logo-icon.png",
@@ -10,6 +10,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#6300E2",
+  "background_color": "#257CFF"
 }
